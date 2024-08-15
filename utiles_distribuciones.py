@@ -21,3 +21,4 @@ def generar_distribucion(data, titulo):
     plt.ylabel('Frecuencia')
     plt.grid(True)
     plt.show()
+
